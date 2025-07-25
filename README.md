@@ -158,4 +158,4 @@ deep-fashion-challenge/
 
 ## Autor
 
-- **Bruno Paiva Smit de Freitas** - *Trabalho inicial* - [brnsmit](https://github.com/brnsmit)
+- **Bruno Paiva Smit de Freitas** - [brnsmit](https://github.com/brnsmit)
